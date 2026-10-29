@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+  <rect width="128" height="128" rx="28" fill="#1e1b4b"/>
+  <circle cx="64" cy="48" r="22" fill="#7c3aed"/>
+  <path d="M40 88c0-13.255 10.745-24 24-24s24 10.745 24 24v12H40V88z" fill="#a78bfa"/>
+  <text x="64" y="56" text-anchor="middle" fill="white" font-size="18" font-weight="700" font-family="system-ui">M</text>
+</svg>
